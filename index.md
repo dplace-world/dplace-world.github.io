@@ -10,7 +10,9 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 - [About](https://dplace-world.github.io/about)
 - [d/place History](https://dplace-world.github.io/history)
 
-## What are you waiting for? Join d/place now and unleash your inner chaos.
+## What are you waiting for? 
+
+## Join d/place now and unleash your inner chaos.
 
 <iframe 
     src="https://discord.com/widget?id=1096605284631334972&theme=dark" 
