@@ -1,4 +1,7 @@
-[START OF SEASON 1]
+# SEASON 1 HISTORY
+
+## START OF SEASON 1
+
 15th Apr (FIRST DAY)
 - d/place starts its first season!
 - #beginnings is created
@@ -659,4 +662,5 @@
 - jased purges literally everything and resets the server for a "season 2".
 1st July (LAST DAY)
 - I repurge everything! I add in 8 #test channels to start off Season 2
-[END OF SEASON 1 78 DAYS]
+
+## [END OF SEASON 1: 78 DAYS]
