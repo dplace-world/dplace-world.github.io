@@ -29,7 +29,9 @@
 - itz sherif gives himself "GREEN" role
 - #spam-sapmanapaomskandabqws and #fu created by itz sherif
 - #uwuw is created by itz sherif
+
 ### 16th Apr (DAY 2)
+
 - cloaky joins
 - Materialized Magnetic Hamster joins
 - #keep-me-alive-as-long-as-possible created by Retroboi
