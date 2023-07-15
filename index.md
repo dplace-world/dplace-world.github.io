@@ -13,5 +13,6 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 - [Season 1 History](season1.md)
 - History of Season 2 - ONGOING
 
-## What are you waiting for? Join d/place now and unleash your inner chaos.</h2>
-<iframe src="https://discord.com/widget?id=1096605284631334972&theme=dark" width="1225" height="390" allowtransparency="true" frameborder="0"></iframe>
+## What are you waiting for? Join d/place now and unleash your inner chaos.
+
+https://discord.com/widget?id=1096605284631334972&theme=dark
