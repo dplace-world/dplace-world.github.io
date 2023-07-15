@@ -2,7 +2,8 @@
 
 ## START OF SEASON 1
 
-15th Apr (FIRST DAY)
+### 15th Apr (FIRST DAY)
+
 - d/place starts its first season!
 - #beginnings is created
 - DaNubnotpro joins(first member)
@@ -28,7 +29,7 @@
 - itz sherif gives himself "GREEN" role
 - #spam-sapmanapaomskandabqws and #fu created by itz sherif
 - #uwuw is created by itz sherif
-16th Apr (DAY 2)
+### 16th Apr (DAY 2)
 - cloaky joins
 - Materialized Magnetic Hamster joins
 - #keep-me-alive-as-long-as-possible created by Retroboi
@@ -70,7 +71,9 @@
 	- server name changed to "SNOW FOX ARE OP", icon changed to Minecraft snow fox sitting in boat
 	- Dank and BurntBacon continue to spam @everyone
 	- Dank now has "GREEN" role, joining itz sherif and BurntBacon
-17th Apr (DAY 3)
+ 
+### 17th Apr (DAY 3)
+
 - d/place returns to normal
 - cloaky creates "dead guy" role
 - Dank and BurntBacon continue to occasionaly spam ping
@@ -104,7 +107,9 @@
 - Jased removes ban from Hyunpyo, and also unbans 3 of the bots Skoopy banned(Testerr, Wiki-Bot, and Snail Racing)
 - Jased removes all roles from Dank(including edit role) and times him out for an hour
 - Jased turns all of the Japanese channel names into numbers(1-10)
-18th Apr (DAY 4)
+
+### 18th Apr (DAY 4)
+
 - Retroboi creates #11-12, removes original #1, then creates his own #1(with a "1" category)
 - Jased deletes the "1" category
 - Jased removes "SOLAR MEMBERS" role and "EMPEROR OF THE SUN" role
@@ -174,7 +179,9 @@
 - BurntBacon adds "Cat Bot"
 - Dank creates "Bacon!" role and gives it to BurntBacon
 - BurntBacon removes "green" role from itz sherif
-19th Apr (DAY 5)
+
+### 19th Apr (DAY 5)
+
 - Retroboi creates #sega-genesis
 - Materialized Magnetic Hamster creates #geemod
 - BurntBacon is very mad that the "Bacon" role was deleted, and also a bit mad Dank remade the "Bacon" role for him
@@ -203,7 +210,9 @@
 - Kaylerr. joins
 - The rise of "hi guys"
 	- all channels have been renamed to "hi-guys"
-20th Apr (DAY 6)
+
+### 20th Apr (DAY 6)
+
 - cloaky create #gjxhdsf, also very hard to document
 - "For talented people" category has been renamed to "hi guys" by cloaky
 - cloaky creates #hi-guys
@@ -216,7 +225,9 @@
 - w o o w o p joins
 - w o o w o p changes the server name to "bye"
 - Skoopy change it back to "d/place"
-21st Apr (DAY 7)
+
+### 21st Apr (DAY 7)
+
 - Skoopy comment that nothing has happened today.
 - itz sherif deletes role "jhgfdsa" and changes "cock sucker 2.0" to "Role For failures and Suckers"
 - itz sherif deletes "Dank memer" role and changes "burnt Baecan" role to "burnt TOAST"
@@ -245,7 +256,9 @@
 		#he-throw-me-up
 		#in-the-air-my
 		#booty-flipping
-22nd Apr (DAY 8)
+
+### 22nd Apr (DAY 8)
+
 - doshicorn creates "new role"
 - "Role for failures and Suckers" turns into "cock sucker role 2.0"
 - Skoopy push people to invite more people into the server(didn't work)
@@ -254,21 +267,31 @@
 - Blu joins
 - itz sherif invites loats of people
 - itz sherif creates "Dank Sucks" role
-23rd Apr (DAY 9)
+
+### 23rd Apr (DAY 9)
+
 - cloaky claims "4 big guys" is a real song
 - Jased kicks Materialized Magnetic Hamster
 - Aallah, Teddy, and Bunny(later changed to ATB thank god) joins
 - Retroboi creates #hi-guys
-24th Apr (DAY 10)
-	(literally nothing happens)
-25th Apr (DAY 11)
+
+### 24th Apr (DAY 10)
+
+(literally nothing happens)
+
+### 25th Apr (DAY 11)
+
 - Frank joins
-26th Apr (DAY 12)
+
+### 26th Apr (DAY 12)
+
 - Frank is unpingable for some reason, nicknamed to Fred
 - Skoopy ping @everyone to do something
 - Retroboi complains he's doing something so Skoopy make "everyone else" role
 - Proman changes #4 to #4713
-27th Apr (DAY 13)
+
+### 27th Apr (DAY 13)
+
 - dejav joins
 - dejav removes #gaming, #art, and #writing
 - dejav changes #4713 back into #4
@@ -277,11 +300,15 @@
 - Jased removes all roles from Proman
 - Retroboi changes "everyone other than skoopydev" role back to "everyone else"
 - Hyunpyo rejoins
-28th Apr (DAY 14)
+
+### 28th Apr (DAY 14)
+
 - Retroboi creates #fuck-you, #nuclear-fusion, and #touhou-project
 - Hyunpyo deletes all invites yet again
 - Hyunpyo sets verification to "High", restricting access to the server
-29th Apr (DAY 15)
+
+### 29th Apr (DAY 15)
+
 - Skoopy set the verification back to "Low"
 - Immediately after Skoopy do that, Fred(previously Frank) and El_Virus_xD's join message appears
 - Hyunpyo claims he was "testing"
@@ -367,7 +394,9 @@
 - cloaky changes #amog to #bbc
 - cloaky gives himself Blurry Frog role
 - PixelatedHunter joins
-30th Apr (DAY 16)
+  
+### 30th Apr (DAY 16)
+
 - Skoopy give cloaky Blurry Frog #3 (hot) role, to which he responds "Skoopy have W rizz"
 - Skoopy turns #4 and #big to #3 and #blurry to reference the 3 Blurry Frogs
 - Retroboi turns #general into #fuck-you
@@ -403,7 +432,9 @@
 - cloaky creates #racism with a category also called "racism"
 - #bbc becomes #bbb, or "Busy Bussy Buses"
 - cloaky turns it back to #bbc
-1st May (DAY 17)
+
+### 1st May (DAY 17)
+
 - Retroboi kicks BMG10 with the reason "fuck you"
 - BMG10 rejoins
 - Retroboi removes edit role from BMG10 and times him out for being a "shidhead"(one day)
@@ -416,27 +447,49 @@
 - itz sherif creates 5 #crash channels
 - itz sherif creates an empty "crash" category
 - itz sherif creates #burp
-2nd May (DAY 18)
-	(literally nothing happened)
-3rd May (DAY 19)
-	(literally nothing happened)
-4th May (DAY 20)
-	(literally nothing happened)
-5th May (DAY 21)
-	(literally nothing happened)
-6th May (DAY 22)
+
+### 2nd May (DAY 18)
+	
+(literally nothing happened)
+
+### 3rd May (DAY 19)
+	
+(literally nothing happened)
+
+### 4th May (DAY 20)
+
+(literally nothing happened)
+
+### 5th May (DAY 21)
+
+(literally nothing happened)
+
+### 6th May (DAY 22)
+
 - cloaky removes #announcements, #news-stuff, #burp, three #crash channels
-7th May (DAY 23)
+
+### 7th May (DAY 23)
+
 - cloaky removes two #hi-guys
-8th May (DAY 24)
-	(literally nothing happened)
-9th May (DAY 25)
-	(literally nothing happened)
-10th May (DAY 26)
-	(literally nothing happened)
-11th May (DAY 27)
-	(literally nothing happened)
-12th May (DAY 28)
+
+### 8th May (DAY 24)
+
+(literally nothing happened)
+
+### 9th May (DAY 25)
+
+(literally nothing happened)
+
+### 10th May (DAY 26)
+
+(literally nothing happened)
+
+### 11th May (DAY 27)
+
+(literally nothing happened)
+
+### 12th May (DAY 28)
+
 - cloaky removes:
 	- #hi-guys
 	- #and
@@ -457,39 +510,68 @@
 	- #ohio
 	- #crash (wait there was three?)
 - There is still three #hi-guys channel left lol
-13th May (DAY 29)
+
+### 13th May (DAY 29)
+
 - Skoopy add Dead Chat Reviver
 - Jased times out Dead Chat Reviver
-14th May (DAY 30)
+
+### 14th May (DAY 30)
+
 - Skoopy untimeout Dead Chat Reviver
 - Retroboi bans Dead Chat Reviver
-15th May (DAY 31)
-	(literally nothing happened)
-16th May (DAY 32)
-	(literally nothing happened)
-17th May (DAY 33)
-	(literally nothing happened)
-18th May (DAY 34)
-	(literally nothing happened)
-19th May (DAY 35)
-	(literally nothing happened)
-20th May (DAY 36)
+
+### 15th May (DAY 31)
+
+(literally nothing happened)
+
+### 16th May (DAY 32)
+
+(literally nothing happened)
+
+### 17th May (DAY 33)
+
+(literally nothing happened)
+
+### 18th May (DAY 34)
+
+(literally nothing happened)
+
+### 19th May (DAY 35)
+
+(literally nothing happened)
+### 20th May (DAY 36)
+
 - Blu creates emojis WannaSpriteCranberry, IAMTARZANAHHHHH, Sideways, and emoji_9
-21st May (DAY 37)
-	(literally nothing happened)
-22nd May (DAY 38)
-	(literally nothing happened)
-23rd May (DAY 39)
+
+### 21st May (DAY 37)
+
+(literally nothing happened)
+
+### 22nd May (DAY 38)
+
+(literally nothing happened)
+
+### 23rd May (DAY 39)
+
 - Skoopy try inviting members to the server and ping everyone to do so too
-24th May (DAY 40)
-	(literally nothing happened)
-25th May (DAY 41)
+
+### 24th May (DAY 40)
+
+(literally nothing happened)
+
+### 25th May (DAY 41)
+
 - Skoopy invite more members to the server
 - Skoopy add SnoopyDumb to the server
 - oi! joins and deletes invites
-26th May (DAY 42)
-	(literally nothing happened)
-27th May (DAY 43)
+
+### 26th May (DAY 42)
+
+(literally nothing happened)
+
+### 27th May (DAY 43)
+
 - Skoopy create new invites
 - kaveh(aka smol bingus from Pavin's server) joins
 - emoji_9 becomes patrick_fart
