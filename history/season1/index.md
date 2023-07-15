@@ -592,7 +592,9 @@
 - UEVEGU joins
 - Skoopy revert the server name and icon from klexification
 - AbbasNotFound joins
-28th May (DAY 44)
+
+### 28th May (DAY 44)
+
 - Blu creates event "popsicle"
 - Jased and oi! create invites
 - r4tm1lk joins
@@ -604,39 +606,63 @@
 - Moh changes server name to Sponix#9105(making audit logs look quite confusing) because it's apparently her birthday
 - Skoopy change the name back to d/place
 - Klex and notnormal joins
-29th May (DAY 45)
+
+### 29th May (DAY 45)
+
 - Hyunpyo, being Hyunpyo, deletes all invites
 - BurntBacon makes a new invite
-30th May (DAY 46)
+
+### 30th May (DAY 46)
+
 - Skoopy make three more invites
 - Hyunpyo purges all of them
-31st May (DAY 47)
+
+### 31st May (DAY 47)
+
 - Jased bans Hyunpyo for good
-1st June (DAY 48)
+
+### 1st June (DAY 48)
+
 - Unfadingbacon joins
 - #hvgghvgggggggggggu is created by cloaky
-2nd June (DAY 49)
+
+### 2nd June (DAY 49)
+
 - Blu creates emoji whathappenedwheniwasgone
-3rd June (DAY 50)
-- d/place becomes a/place to commemorate Pride Month(and Skoopy is autistic)
+
+### 3rd June (DAY 50)
+
+- d/place becomes a/place to commemorate Autistic Pride Day on 18th June(and Skoopy is autistic)
 - Hyunpyo rejoins since Retroboi unbanned him
 - dejav's "my place" revolution
 	- Server icon changes
 	- Server name changes to "my place"
 		7 new #hvgghvgggggggggggu channels appear
 	- Skoopy ignore it for now
-4th June (DAY 51)
+
+### 4th June (DAY 51)
+
 - Skoopy revert the server back to a/place
-5th June (DAY 52)
+
+### 5th June (DAY 52)
+
 - Retroboi sets name to d/place
-6th June (DAY 53)
+
+### 6th June (DAY 53)
+
 - Hyunpyo deletes all invites again!
 - doshicorn creates new invites
-7th June (DAY 54)
+
+### 7th June (DAY 54)
+
 - Blu creates emoji "AnimeWow"
-8th June (DAY 55)
-- (literally nothing happened)
-9th June(DAY 56)
+
+### 8th June (DAY 55)
+
+(literally nothing happened)
+
+### 9th June(DAY 56)
+
 - error404!sans gets renamed to "505 HTTP Version Not Supported" by Jased
 - Materialized Magnetic Hamster invites "kiggernword22" and "riggerwiggerjiggernword", possibly alt accounts
 - Materialized Magnetic Hamster and the n-word accounts are banned by Jased
@@ -652,11 +678,15 @@
 - Dank removes #hi-guys and #and-they-say 
 - Hyunpyo deletes all invites again
 - jased removes his edit role
-10th June (DAY 57)
+
+### 10th June (DAY 57)
+
 - Skoopy change it back to a/place
 - Skoopy delete Dank's new edit role
 - Shadow says he's actually Alen Salpeas but renamed, but Skoopy don't believe him
-11th June (DAY 58)
+
+### 11th June (DAY 58)
+
 - Dank changes server name to d/place
 - TheDarkAges joins
 - Dank changes the server pfp to dankplace.webp
@@ -694,40 +724,68 @@
 - Retroboi changes first #᲼8008 into #hi-guys 
 - anakinkalido joins
 - skvr_lil_blue joins
-12th June (DAY 59)
+
+### 12th June (DAY 59)
+
 - komodoshado joins
 - marshmelokitties joins
 - Retroboi creates loads of invites
 - Seapuppet533103fan joins
-13th June (DAY 60)
-- (literally nothing happens)
-14th June (DAY 61)
-- (literally nothing happens)
-15th June (DAY 62)
-- (literally nothing happens)
-16th June (DAY 63)
-- (literally nothing happens)
-17th June (DAY 64)
+
+### 13th June (DAY 60)
+
+(literally nothing happens)
+
+### 14th June (DAY 61)
+
+(literally nothing happens)
+
+### 15th June (DAY 62)
+
+(literally nothing happens)
+
+### 16th June (DAY 63)
+
+(literally nothing happens)
+
+### 17th June (DAY 64)
+
 - Skoopy comments that anakinkalido, stadoesyt, komodoshado, marshmelokitties, and Seapuppet533103fan all left. Skvr_lil_blue is still here though!
 - Skoopy renames アレン・サルペアス to bob for easier pinging
 - ATB creates "just a role" and adds it to themself
-18th June (DAY 65)
-- (literally nothing happens)
-19th June (DAY 66)
-- (literally nothing happens)
-20th June (DAY 67)
-- (literally nothing happens)
-21th June (DAY 68)
+
+### 18th June | Autistic Pride Day (DAY 65)
+
+(literally nothing happens)
+
+### 19th June (DAY 66)
+
+(literally nothing happens)
+
+### 20th June (DAY 67)
+
+(literally nothing happens)
+
+### 21th June (DAY 68)
+
 - Retroboi changes last #᲼8008 to #hi-guys 
-22th June (DAY 69)
-	 - Skoopy comments the server has been here for 69 days
-23rd June (DAY 70)
-- (literally nothing happens)
-24th June (DAY 71)
+
+### 22th June (DAY 69)
+
+- Skoopy comments the server has been here for 69 days
+
+### 23rd June (DAY 70)
+
+(literally nothing happens)
+
+### 24th June (DAY 71)
+
 - Skoopy creates invites to the server in an effort to promote it
 - Higgs_Boson7 joins
 - Retroboi creates #legalize-nuclear-birds , but accidentally creates two of them so he deletes the duplicate
-25th June (DAY 72)
+
+### 25th June (DAY 72)
+
 - Oi removes the invites, much to Skoopy's annoyance.
 - Oi invites r4tm1lk into the server
 - I create more invites, and vastabyss joins
@@ -737,12 +795,18 @@
 - vastabyss later deletes the CS role and adds "Just a role" role to themself.
 - vastabyss attempts to invite more members, but Oi does not let them.
 - vastabyss gives himself a fake root role, called "fake root"
-26th -> 29th June (DAYS 73-76)
-- Skoopy is away for summer holidays
-- (literally nothing happens)
-30th June (DAY 77)
+
+### 26th -> 29th June (DAYS 73-76)
+
+- Skoopy is away for summer holidays...but...
+(literally nothing happens)
+
+### 30th June (DAY 77)
+
 - jased purges literally everything and resets the server for a "season 2".
-1st July (LAST DAY)
+
+### 1st July (LAST DAY)
+
 - I repurge everything! I add in 8 #test channels to start off Season 2
 
 ## [END OF SEASON 1: 78 DAYS]
