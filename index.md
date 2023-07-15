@@ -12,4 +12,10 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 
 ## What are you waiting for? Join d/place now and unleash your inner chaos.
 
-https://discord.com/widget?id=1096605284631334972&theme=dark
+<iframe 
+    src="https://discord.com/widget?id=1096605284631334972&theme=dark" 
+    width="350" height="500" 
+    allowtransparency="true" 
+    frameborder="0" 
+    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+></iframe>
