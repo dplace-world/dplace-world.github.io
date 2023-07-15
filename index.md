@@ -8,8 +8,7 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 ## Links
 
 - [About](https://skoopy.jased.xyz/about)
-- [Season 1 History](https://skoopy.jased.xyz/history/season1)
-- [Season 2 History](https://skoopy.jased.xyz/history/season2)
+- [d/place History](https://skoopy.jased.xyz/history)
 
 ## What are you waiting for? Join d/place now and unleash your inner chaos.
 
