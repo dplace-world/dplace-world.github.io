@@ -1,7 +1,3 @@
-# Enter the world of d/place
-
-## Where anarchy reigns supreme and chaos is the only rule.
-
 Join the ultimate anarchy Discord server where chaos rules and everyone gets admin perms. Create, destroy, join factions or forge your path. Embrace the chaos!
 
 ## Rules
