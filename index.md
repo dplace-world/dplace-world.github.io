@@ -7,9 +7,9 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 
 ## Links
 
-- [About](about.md)
-- [Season 1 History](season1.md)
-- History of Season 2 - ONGOING
+- [About](https://skoopy.jased.xyz/about)
+- [Season 1 History](https://skoopy.jased.xyz/history/season1)
+- [Season 2 History](https://skoopy.jased.xyz/history/season2)
 
 ## What are you waiting for? Join d/place now and unleash your inner chaos.
 
