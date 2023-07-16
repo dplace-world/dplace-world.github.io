@@ -1,5 +1,18 @@
 title: d/place world
 description: Enter the world of d/place, where anarchy reigns supreme and chaos is the only rule.
+author: Abhinav Saxena
+url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+
+favicon: "./favicon.ico" # relative path to site's favicon
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "back" # customize text for homepage link in post layout
+  date_format: "%Y/%m/%d" # customize how date is formatted
+  show_description: true # show description
+  show_navbar: true # show horizontal navbar
+
 remote_theme: abhinavs/moonwalk
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
