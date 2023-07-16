@@ -7,7 +7,7 @@ favicon: "./dplace.png"
 
 theme_config:
   appearance: "dark"
-  appearance_toggle: true
+  appearance_toggle: false
   back_home_text: "back"
   date_format: "%Y/%m/%d"
   show_description: true
