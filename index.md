@@ -5,13 +5,6 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 - Follow [Discord TOS](https://discord.com/terms)
 - Other than that, there are no rules. Anything goes!
 
-## Links
-
-- [About](https://dplace-world.github.io/about)
-- [d/place History](https://dplace-world.github.io/history)
-
-## What are you waiting for? 
-
 ## Join d/place now and unleash your inner chaos.
 
 <iframe 
