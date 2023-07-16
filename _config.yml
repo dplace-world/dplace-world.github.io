@@ -6,7 +6,7 @@ url: https://dplace-world.github.io
 favicon: "./favicon.ico"
 
 theme_config:
-  appearance: "auto" # "light", "dark" or "auto"
+  appearance: "dark"
   appearance_toggle: true
   back_home_text: "back"
   date_format: "%Y/%m/%d"
