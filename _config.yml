@@ -3,7 +3,7 @@ description: Enter the world of d/place, where anarchy reigns supreme and chaos 
 author: Skoopy Dev
 url: https://dplace-world.github.io
 
-favicon: "./favicon.ico"
+favicon: "./dplace.png"
 
 theme_config:
   appearance: "dark"
