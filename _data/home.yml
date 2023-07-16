@@ -11,3 +11,5 @@ navbar_entries:
 footer_entries:
   - title: by Skoopy
     url: https://skoopy.jased.xyz
+  - title: and Jased
+    url: https://jased.xyz
