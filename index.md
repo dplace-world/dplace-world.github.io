@@ -3,6 +3,8 @@ Join the ultimate anarchy Discord server where chaos rules and everyone gets adm
 ## Rules
 
 - Follow [Discord TOS](https://discord.com/terms)
+- Don't get d/place or its owners([Skoopy](skoopy.jased.xyz) and [Jased](jased.xyz)) banned
+- No disabling invites or server widget
 - Other than that, there are no rules. Anything goes!
 
 ## Join d/place now and unleash your inner chaos.
