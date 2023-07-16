@@ -1,5 +1,5 @@
 title: d/place world
 description: Enter the world of d/place, where anarchy reigns supreme and chaos is the only rule.
-remote_theme: page-themes/moonwalk
+remote_theme: pages-themes/moonwalk
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
