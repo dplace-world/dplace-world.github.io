@@ -1,4 +1,4 @@
-Join the ultimate anarchy Discord server where chaos rules and everyone gets admin perms. Create, destroy, join factions or forge your path. Embrace the chaos!
+Join the ultimate anarchy Discord server where chaos rules and everyone gets admin perms. Create, destroy, and join factions. Embrace the chaos!
 
 ## Rules
 
