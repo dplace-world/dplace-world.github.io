@@ -13,6 +13,20 @@ theme_config:
   show_description: true
   show_navbar: true
 
+navbar_entries:
+  - title: home
+    url: https://dplace-world.github.io
+
+  - title: about
+    url: https://dplace-world.github.io/about
+
+  - title: history
+    url: https://dplace-world.github.io/history
+
+footer_entries:
+  - title: skoopy's homepage
+    url: https://skoopy.jased.xyz
+
 remote_theme: abhinavs/moonwalk
 plugins:
  - jekyll-remote-theme
