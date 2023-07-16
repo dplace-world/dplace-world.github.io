@@ -1,13 +1,13 @@
 navbar_entries:
-  - title: home
+  - title: Home
     url: https://dplace-world.github.io
 
-  - title: about
+  - title: About
     url: https://dplace-world.github.io/about
 
-  - title: history
+  - title: The Archive
     url: https://dplace-world.github.io/history
 
 footer_entries:
-  - title: by skoopy
+  - title: by Skoopy
     url: https://skoopy.jased.xyz
