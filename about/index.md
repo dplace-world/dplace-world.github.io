@@ -9,4 +9,4 @@ It was eventually closed once the chaos was over, and the admin perms were remov
 
 Near the end of Season 1, [Jased](jased.xyz) decided to purge the whole server, as the server became inactive and needed a fresh start. This was the beginning of Season 2.
 
-After a whirlwind of events that was Season 2, [Skoopy](skoopy.jased.xyz) and [Jased](jased.xyz) decided to start Season 3. However, the server lost excitement and was mostly dead, o [Skoopy](skoopy.jased.xyz) chose to shut down d/place for good and it became dead/place.
+After a whirlwind of events that was Season 2, [Skoopy](skoopy.jased.xyz) and [Jased](jased.xyz) decided to start Season 3. However, the server lost excitement and was mostly dead, [Skoopy](skoopy.jased.xyz) chose to shut down d/place for good and it became dead/place.
