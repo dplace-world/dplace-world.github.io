@@ -1,3 +1,8 @@
+---
+layout: post
+title: SEASON 2
+---
+
 # SEASON 2 HISTORY
 
 ## START OF SEASON 2
