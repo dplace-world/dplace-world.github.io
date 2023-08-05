@@ -1,3 +1,8 @@
+---
+layout: post
+title: About
+---
+
 # About d/place
 
 d/place started as a small project called discord/place by [Skoopy](skoopy.jased.xyz), an experiment of sorts to see what would happen if users were given full control over a discord server. The name was inspired by "r/place", which had a similar concept. [discord/place](https://discord.gg/DcQH4hYHwE)(nowadays called "d/place legacy") was the stuff of pure anarchy. Factions came and went, many exciting events happened, and none of it was recorded(hence why it is not recorded in the [Archives](dplace-world.github.io/history)). 
