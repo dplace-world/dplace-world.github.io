@@ -1,3 +1,8 @@
+---
+layout: post
+title: THE ARCHIVE
+---
+
 # THE ARCHIVE
 
 ### The Archive is a place where the entire history of d/place is kept.
