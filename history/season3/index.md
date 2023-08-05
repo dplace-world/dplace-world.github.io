@@ -1,3 +1,8 @@
+---
+layout: post
+title: SEASON 3
+---
+
 # SEASON 3 HISTORY
 
 ## SEASON 3 STARTS
