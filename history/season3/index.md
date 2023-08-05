@@ -1,9 +1,7 @@
 ---
 layout: post
-title: SEASON 3
+title: SEASON 3 HISTORY
 ---
-
-# SEASON 3 HISTORY
 
 ## SEASON 3 STARTS
 
