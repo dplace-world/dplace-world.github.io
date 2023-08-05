@@ -1,3 +1,5 @@
+# **D/PLACE IS NOW DEAD**
+
 Join the ultimate anarchy Discord server where chaos rules and everyone gets admin perms. Create, destroy, and join factions. Embrace the chaos!
 
 ## Rules
